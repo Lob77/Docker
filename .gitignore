@@ -37,7 +37,7 @@ out/
 .vscode/
 
 ### applicaatoin.properties ###
-applicaton.properties
+application.properties
 *.env
 DB/pg_hba.conf
 DB/pg_ident.conf
